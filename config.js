@@ -19,7 +19,7 @@ global.prems = ['212777532483'];
 
 global.packname = 'JITOSSA';
 global.author = '';
-global.wm = 'OMAR';
+global.wm = '❀ꪑꪖ𝘳ᧁꪖ𝘳𝓲𝓽ꪖ✾ ';
 global.titulowm = 'JITOSSA';
 global.titulowm2 = `JITOSSA`
 global.igfg = 'JITOSSA';
