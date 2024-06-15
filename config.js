@@ -7,15 +7,15 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = ""
+global.botnumber = "212777532483"
 //يمكنك إضافة رقمك للتحكم في البوت أو إن طلب شخص رقمك من البوت
 global.owner = [
-  ['212670941551', 'Omar', true],
+  ['212777532483', '❀ꪑꪖ𝘳ᧁꪖ𝘳𝓲𝓽ꪖ✾ ', true],
   
 ];
 
-global.suittag = ['212670941551'];
-global.prems = ['212670941551'];
+global.suittag = ['212777532483'];
+global.prems = ['212777532483'];
 
 global.packname = 'JITOSSA';
 global.author = '';
@@ -23,7 +23,7 @@ global.wm = 'OMAR';
 global.titulowm = 'JITOSSA';
 global.titulowm2 = `JITOSSA`
 global.igfg = 'JITOSSA';
-global.wait = '> _جاري معالجة طلبك حاول الإنتظار ..._\n\n *متابعة للمطور في إنستجرام* \n*_instagram.com/ovmar_1_*';
+global.wait = '> _جاري معالجة طلبك حاول الإنتظار ..._*';
 global.waitt = '> سوف أجيب عن سؤالك بعد قليل ...';
 global.waittt = '> سوف يتم رسم صورتك بعد قليل ...';
 global.rwait = '⏳';
@@ -50,9 +50,9 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.wm2 = `${dia} ${fecha}\nJITOSSA`;
 global.gt = 'JITOSSA';
 global.mysticbot = 'JITOSSA';
-global.md = 'https://instagram.com/ovmar_1';
-global.mysticbot = 'https://instagram.com/ovmar_1';
-global.nomorown = '212670941551';
+global.md = '❀ꪑꪖ𝘳ᧁꪖ𝘳𝓲𝓽ꪖ✾ ';
+global.mysticbot = 'https://not-instagram';
+global.nomorown = '212777532483';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
