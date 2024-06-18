@@ -10,24 +10,24 @@ import moment from 'moment-timezone';
 global.botnumber = "212777532483"
 //يمكنك إضافة رقمك للتحكم في البوت أو إن طلب شخص رقمك من البوت
 global.owner = [
-  ['212777532483', '❀ꪑꪖ𝘳ᧁꪖ𝘳𝓲𝓽ꪖ✾ ', true],
+  ['212710725533', 'SASUKE TECH ', false],
   
 ];
 
-global.suittag = ['212777532483'];
-global.prems = ['212777532483'];
+global.suittag = ['212710725533'];
+global.prems = ['212710725533'];
 
 global.packname = 'JITOSSA';
-global.author = '';
-global.wm = '❀ꪑꪖ𝘳ᧁꪖ𝘳𝓲𝓽ꪖ✾ ';
+global.author = 'SASUKE TECH';
+global.wm = 'SASUKE TECH ';
 global.titulowm = 'JITOSSA';
 global.titulowm2 = `JITOSSA`
 global.igfg = 'JITOSSA';
 global.wait = '> _جاري معالجة طلبك حاول الإنتظار ..._*';
 global.waitt = '> سوف أجيب عن سؤالك بعد قليل ...';
 global.waittt = '> سوف يتم رسم صورتك بعد قليل ...';
-global.rwait = '⏳';
-global.done = '✅';
+global.rwait = '❤️';
+global.done = '☑️';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
 global.imagen2 = fs.readFileSync('./src/nuevobot.jpg');
@@ -52,7 +52,7 @@ global.gt = 'JITOSSA';
 global.mysticbot = 'JITOSSA';
 global.md = '❀ꪑꪖ𝘳ᧁꪖ𝘳𝓲𝓽ꪖ✾ ';
 global.mysticbot = 'https://not-instagram';
-global.nomorown = '212777532483';
+global.nomorown = '212710725533';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
